@@ -1,0 +1,10 @@
+2
+2
+1 dime equals 10 cent
+100 cent equals 1 dollar
+20 dime to dollar
+3
+300 florp equals 1 zink
+1 dinc equals 20 zink
+1 dinc equals 5000 rand
+1000 rand to zink
